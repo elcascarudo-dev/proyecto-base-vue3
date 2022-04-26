@@ -3,9 +3,11 @@
 
 ### Archivo .env
 
-| VITE_APP_BASE_URL_REST | URL Proyecto Firebase |
+| Variable de entorno     | Valor                      |
+|-------------------------|----------------------------|
+| VITE_APP_BASE_URL_REST  | URL Proyecto Firebase      |
 | VITE_APP_BASE_URL_LOGIN | URL API Rest Auth Firebase |
-| VITE_APP_BASE_URL_KEY | API KEY Proyecto Firebase |
+| VITE_APP_BASE_URL_KEY   | API KEY Proyecto Firebase  |
 
 ### Uso
 
